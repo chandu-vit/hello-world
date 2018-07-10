@@ -1,1 +1,2 @@
 The First Practice On Git.
+Today is Tuesday 10/7/2018
